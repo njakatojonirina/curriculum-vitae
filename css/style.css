@@ -87,9 +87,11 @@ body {
 }
 
 .title-tag {
-  font-size: 0.7rem;
+  font-size: 0.9rem;
   color: var(--text-tertiary);
-  font-style: italic;
+  font-weight: 900;
+  font-family: 'Playfair Display', serif;
+  text-transform: uppercase;
 }
 
 /* DIVIDER */
